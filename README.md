@@ -16,3 +16,7 @@ Before flashing or booting, verify your downloaded file against the MD5 checksum
 
 ```text
 MD5: aa28fe62fe2ff7c64b6cbadbb03a9fa7
+
+⚠️ Alpha 0.1 Note on Windows (.exe) Support:
+
+CustomOS includes raw Wine and Winetricks out of the box for running lightweight Windows apps and portable tools. Complex 3D games or software requiring kernel anti-cheat are not supported yet in Alpha 0.1.
