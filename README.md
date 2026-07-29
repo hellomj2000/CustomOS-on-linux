@@ -1,7 +1,9 @@
 # CustomOS-on-linux
 # 🚀 CustomOS (Alpha 0.1)
 
-Welcome to **CustomOS**, a customized Linux distribution built on an **Ubuntu 26.04 LTS** base using Cubic. This OS comes pre-configured with Wine & Winetricks for an expreince similar to windows, enabling users to run .exe files easily.
+Welcome to **CustomOS**, a customized Linux distribution built on an **Ubuntu 26.04 LTS** base using Cubic. This OS comes pre-configured with Wine & Winetricks for an expreince similar to windows, enabling users to run .exe files easily. This is a personal learning and testing project.
+
+It is currently difficult to setup and configure, will be improved soon™.
 
 ---
 
