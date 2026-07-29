@@ -1,2 +1,3 @@
 # CustomOS-on-linux
-learning 
+For learning and testing only
+Practically useless
