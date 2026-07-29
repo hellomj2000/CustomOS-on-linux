@@ -10,7 +10,6 @@ Welcome to **CustomOS**, a customized Linux distribution built on an **Ubuntu 26
 Due to GitHub's file size restrictions, the full system image is hosted on **Hugging Face** for fast, high-speed single-click downloads.
 
 * **Primary Download:** [Download CustomOS Alpha 0.1 ISO (6.1 GB)](https://huggingface.co/Hellomj2000/CustomOS/tree/main)
-* **Checksum File:** `CustomOS-alpha0.1-amd64.md5`
 
 ### 🔒 Verification (MD5)
 Before flashing or booting, verify your downloaded file against the MD5 checksum to ensure the image was not corrupted during download:
